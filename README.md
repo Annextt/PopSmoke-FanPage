@@ -40,6 +40,6 @@ Abra o arquivo index.html no navegador.
 
 Contato
 
-Instagram/Twitter: @seuusuario
+Instagram: @d4vid_.nk
 
-Email: seuemail@example.com
+Email: devdavidnakahara@gmail.com

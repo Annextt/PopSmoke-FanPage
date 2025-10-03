@@ -29,7 +29,7 @@ git clone https://github.com/Annextt/pop-smoke-fanpage.git
 
 Abra o arquivo index.html no navegador.
 
-📬 Contato
+# 📬 Contato
 
 📸 Instagram: @d4vid_.nk
 

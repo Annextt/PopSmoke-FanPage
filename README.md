@@ -1,27 +1,18 @@
-# PopSmoke-FanPage
-Pop Smoke Fan Page
+# 🎤 PopSmoke-FanPage
 
-Uma fan page dedicada ao rapper Pop Smoke, com biografia, álbuns, últimas notícias e espaço para fãs interagirem.
+Pop Smoke Fan Page — Uma fan page dedicada ao rapper Pop Smoke, com biografia, álbuns, últimas notícias e espaço para fãs interagirem.
 
-Estrutura da Página
+# 📌 Estrutura da Página
 
-Biografia
+📖 Biografia → Breve histórico do artista, principais conquistas e curiosidades.
 
-Breve histórico do artista, principais conquistas e curiosidades.
+💿 Álbum Mais Escutado → Destaque para o álbum ou música mais popular do artista.
 
-Álbum Mais Escutado
+📰 Últimas Notícias → Atualizações e novidades sobre o artista, lançamentos ou homenagens.
 
-Destaque para o álbum ou música mais popular do artista.
+💬 Deixe Seu Comentário → Área para fãs interagirem e deixarem suas mensagens.
 
-Últimas Notícias
-
-Atualizações e novidades sobre o artista, lançamentos ou homenagens.
-
-Deixe Seu Comentário
-
-Área para fãs interagirem e deixarem suas mensagens.
-
-Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 HTML
 
@@ -29,7 +20,7 @@ CSS
 
 JavaScript
 
-Como Executar
+🚀 Como Executar
 
 Clone o repositório:
 
@@ -38,8 +29,8 @@ git clone https://github.com/Annextt/pop-smoke-fanpage.git
 
 Abra o arquivo index.html no navegador.
 
-Contato
+📬 Contato
 
-Instagram: @d4vid_.nk
+📸 Instagram: @d4vid_.nk
 
-Email: devdavidnakahara@gmail.com
+📧 Email: devdavidnakahara@gmail.com

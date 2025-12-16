@@ -1,36 +1,38 @@
-# 🎤 PopSmoke-FanPage
+# 🎤 Pop Smoke Fan Page
 
-Pop Smoke Fan Page — Uma fan page dedicada ao rapper Pop Smoke, com biografia, álbuns, últimas notícias e espaço para fãs interagirem.
+**Pop Smoke Fan Page** é uma fan page dedicada ao rapper **Pop Smoke**, criada para reunir informações sobre sua trajetória, principais álbuns, notícias e um espaço para interação entre fãs.
 
-# 📌 Estrutura da Página
+🔗 **Acesse o site:**  
+👉 https://longlivepop.netlify.app
 
-📖 Biografia → Breve histórico do artista, principais conquistas e curiosidades.
+---
 
-💿 Álbum Mais Escutado → Destaque para o álbum ou música mais popular do artista.
+## 📌 Conteúdo do Site
 
-📰 Últimas Notícias → Atualizações e novidades sobre o artista, lançamentos ou homenagens.
+📖 **Biografia**  
+Breve histórico do artista, principais conquistas e curiosidades sobre sua carreira.
 
-💬 Deixe Seu Comentário → Área para fãs interagirem e deixarem suas mensagens.
+💿 **Álbum em Destaque**  
+Exibição do álbum ou música mais popular do artista.
 
-# 🛠️ Tecnologias Utilizadas
+📰 **Últimas Notícias**  
+Atualizações sobre lançamentos, homenagens e novidades relacionadas ao Pop Smoke.
 
-HTML
+💬 **Área de Comentários**  
+Espaço para fãs deixarem mensagens e interagirem.
 
-CSS
+---
 
-JavaScript
+## 🛠️ Tecnologias Utilizadas
 
-🚀 Como Executar
+- HTML5  
+- CSS3  
+- JavaScript  
 
-Clone o repositório:
+---
 
+## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
+```bash
 git clone https://github.com/Annextt/pop-smoke-fanpage.git
-
-
-Abra o arquivo index.html no navegador.
-
-# 📬 Contato
-
-📸 Instagram: @d4vid_.nk
-
-📧 Email: devdavidnakahara@gmail.com

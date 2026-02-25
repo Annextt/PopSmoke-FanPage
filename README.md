@@ -30,9 +30,3 @@ Espaço para fãs deixarem mensagens e interagirem.
 - JavaScript  
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/Annextt/pop-smoke-fanpage.git
